@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BmiCalcy</string>
+    <string name="weight">Weight</string>
+    <string name="no_weight">0</string>
+    <string name="kg">Kg</string>
+    <string name="Feet" />
+    <string name="height">Height</string>
+    <string name="no_height">0</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="range_unit">TextView</string>
+</resources>
